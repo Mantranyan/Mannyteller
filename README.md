@@ -25,8 +25,9 @@ Model recommendations:
 untested but should work: Claude, Gemini, Gpt
 
 Branches:
-- MannyAC (companion experience style one on one iteration without all the storytelling machinery)+Special Lorebook format for exceptional depth.(tbd))
+- MannyAC (companion experience style one on one iteration without all the storytelling machinery)+Special Lorebook (TBD)format for exceptional depth.(tbd))
 - MannytellerLiGHT (Less heavy one storythread following classic USER POV style(tbd))
+- Storyteller card: an example and customizable card for Mannyteller and mannyteller light.
   
 
 
