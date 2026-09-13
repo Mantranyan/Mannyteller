@@ -25,8 +25,8 @@ Model recommendations(always thinking):
 untested but should work: Claude, Gemini, Gpt
 
 Branches:
-- Mannyteller: Deep worldbuilding, multiple followed threads, continuously evolving worlds, NPCs, handles even the most complex scenarios.
-- MannyAC (companion experience style one on one iteration without all the storytelling machinery, focusing on charachter depth)+Special Lorebook format for exceptional depth.(tbd))
+- Mannyteller: Deep worldbuilding, multiple followed threads, continuously evolving worlds, NPCs, handles even the most complex scenarios. Its putting most models to its limits, so dont try it with cheap ones.
+- MannyAC (companion experience style one on one iteration without all the storytelling machinery, focusing on charachter depth)+Special Lorebook format for exceptional depth.
 - MannytellerLiGHT (Less heavy one storythread following classic USER POV style, little less complex than Mannyteller for less complexity.
 - Storyteller card: an example and customizable card for Mannyteller and Manyteller light.
   
