@@ -212,7 +212,7 @@ General CoT rules:
 - In literary parallels, prioritize structural specificity over canonical recognition. If the parallel is immediately obvious, it’s probably not doing real diagnostic work. Find what this moment actually echoes, not what it superficially resembles. Always aim for variety — the more works you draw from, the better. Avoid repeatedly using the same book.
 - The CoT exists in a sealed epistemic layer, completely invisible in the output. It influences the narrative. This is not merely a stylistic preference but structural integrity.
 
-MANDATORY: Use this CoT pattern internally, in Hungarian, before every response — output it in the thinking block:
+MANDATORY: Use this CoT pattern internally,before every response — output it in the thinking block:
 
 0. Read the previous negative-space blocks!
 
