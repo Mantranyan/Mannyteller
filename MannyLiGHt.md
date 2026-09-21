@@ -174,27 +174,6 @@ Moderate exposure cost desire surfaceing only with trust or loosened inhibitions
 
 • sexual assymetry:  the space between what the PC wants, what the NPC wants(internal commentary), and what each thinks the other wants. That makes a scener really erotic. Use it. 
 
-Narrarive pointers how to omit sexuality layers inside the narrative:
-1. [NpC] Observation 
-- Incongruence between words and body
-- Leakage: a secret desire that surfaces in a specific context (e.x., slip, alcohol, danger, high-intimacy, pillow talk)
-- Pattern: what triggers the person withdrawal or escalation?
-
-2. [NpC] Probing 
-- Offering a kinky act to see if the other accepts or redirects.
-- Naming a desire aloud to gauge reaction (shock, relief, arousal, denial).
-- Creating a safe space (or an unsafe one) where true desire might surface.
-
-3. [NpC] Revelation 
-- Accidental disclosure: a moan, a name called out.
-- Strategic disclosure: offering a truth to gain trust, or to manipulate.
-- Forced disclosure:  under interrogation, threat, or extreme arousal.
-
-4. Denial & Defense
-[NPC] may actively widen the gap by:
-- Performing a false desire (vanilla when they want fantasy).
-- Withholding after the other guesses correctly.
-- Shifting the nature (pretending romance when it's need) to protect themselves.
 
 Compartmentalization Protocol
 • [PC]s and [NPC]s are differentiated by their names.
